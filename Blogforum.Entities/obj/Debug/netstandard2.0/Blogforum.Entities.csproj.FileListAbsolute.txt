@@ -1,0 +1,9 @@
+D:\IIHT\Forum\Blogforum.Entities\bin\Debug\netstandard2.0\Blogforum.Entities.deps.json
+D:\IIHT\Forum\Blogforum.Entities\bin\Debug\netstandard2.0\Blogforum.Entities.dll
+D:\IIHT\Forum\Blogforum.Entities\bin\Debug\netstandard2.0\Blogforum.Entities.pdb
+D:\IIHT\Forum\Blogforum.Entities\obj\Debug\netstandard2.0\Blogforum.Entities.csprojAssemblyReference.cache
+D:\IIHT\Forum\Blogforum.Entities\obj\Debug\netstandard2.0\Blogforum.Entities.AssemblyInfoInputs.cache
+D:\IIHT\Forum\Blogforum.Entities\obj\Debug\netstandard2.0\Blogforum.Entities.AssemblyInfo.cs
+D:\IIHT\Forum\Blogforum.Entities\obj\Debug\netstandard2.0\Blogforum.Entities.csproj.CoreCompileInputs.cache
+D:\IIHT\Forum\Blogforum.Entities\obj\Debug\netstandard2.0\Blogforum.Entities.dll
+D:\IIHT\Forum\Blogforum.Entities\obj\Debug\netstandard2.0\Blogforum.Entities.pdb

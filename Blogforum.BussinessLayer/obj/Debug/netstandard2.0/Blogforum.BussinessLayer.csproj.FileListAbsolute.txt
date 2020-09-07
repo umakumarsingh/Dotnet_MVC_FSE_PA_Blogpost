@@ -1,0 +1,14 @@
+D:\IIHT\Forum\Blogforum.BussinessLayer\bin\Debug\netstandard2.0\Blogforum.BussinessLayer.deps.json
+D:\IIHT\Forum\Blogforum.BussinessLayer\bin\Debug\netstandard2.0\Blogforum.BussinessLayer.dll
+D:\IIHT\Forum\Blogforum.BussinessLayer\bin\Debug\netstandard2.0\Blogforum.BussinessLayer.pdb
+D:\IIHT\Forum\Blogforum.BussinessLayer\bin\Debug\netstandard2.0\Blogforum.DataLayer.dll
+D:\IIHT\Forum\Blogforum.BussinessLayer\bin\Debug\netstandard2.0\Blogforum.Entities.dll
+D:\IIHT\Forum\Blogforum.BussinessLayer\bin\Debug\netstandard2.0\Blogforum.DataLayer.pdb
+D:\IIHT\Forum\Blogforum.BussinessLayer\bin\Debug\netstandard2.0\Blogforum.Entities.pdb
+D:\IIHT\Forum\Blogforum.BussinessLayer\obj\Debug\netstandard2.0\Blogforum.BussinessLayer.csprojAssemblyReference.cache
+D:\IIHT\Forum\Blogforum.BussinessLayer\obj\Debug\netstandard2.0\Blogforum.BussinessLayer.AssemblyInfoInputs.cache
+D:\IIHT\Forum\Blogforum.BussinessLayer\obj\Debug\netstandard2.0\Blogforum.BussinessLayer.AssemblyInfo.cs
+D:\IIHT\Forum\Blogforum.BussinessLayer\obj\Debug\netstandard2.0\Blogforum.BussinessLayer.csproj.CoreCompileInputs.cache
+D:\IIHT\Forum\Blogforum.BussinessLayer\obj\Debug\netstandard2.0\Blogforum.BussinessLayer.csproj.CopyComplete
+D:\IIHT\Forum\Blogforum.BussinessLayer\obj\Debug\netstandard2.0\Blogforum.BussinessLayer.dll
+D:\IIHT\Forum\Blogforum.BussinessLayer\obj\Debug\netstandard2.0\Blogforum.BussinessLayer.pdb

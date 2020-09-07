@@ -1,0 +1,12 @@
+D:\IIHT\Forum\Blogforum.DataLayer\bin\Debug\netstandard2.0\Blogforum.DataLayer.deps.json
+D:\IIHT\Forum\Blogforum.DataLayer\bin\Debug\netstandard2.0\Blogforum.DataLayer.dll
+D:\IIHT\Forum\Blogforum.DataLayer\bin\Debug\netstandard2.0\Blogforum.DataLayer.pdb
+D:\IIHT\Forum\Blogforum.DataLayer\bin\Debug\netstandard2.0\Blogforum.Entities.dll
+D:\IIHT\Forum\Blogforum.DataLayer\bin\Debug\netstandard2.0\Blogforum.Entities.pdb
+D:\IIHT\Forum\Blogforum.DataLayer\obj\Debug\netstandard2.0\Blogforum.DataLayer.csprojAssemblyReference.cache
+D:\IIHT\Forum\Blogforum.DataLayer\obj\Debug\netstandard2.0\Blogforum.DataLayer.AssemblyInfoInputs.cache
+D:\IIHT\Forum\Blogforum.DataLayer\obj\Debug\netstandard2.0\Blogforum.DataLayer.AssemblyInfo.cs
+D:\IIHT\Forum\Blogforum.DataLayer\obj\Debug\netstandard2.0\Blogforum.DataLayer.csproj.CoreCompileInputs.cache
+D:\IIHT\Forum\Blogforum.DataLayer\obj\Debug\netstandard2.0\Blogforum.DataLayer.csproj.CopyComplete
+D:\IIHT\Forum\Blogforum.DataLayer\obj\Debug\netstandard2.0\Blogforum.DataLayer.dll
+D:\IIHT\Forum\Blogforum.DataLayer\obj\Debug\netstandard2.0\Blogforum.DataLayer.pdb
